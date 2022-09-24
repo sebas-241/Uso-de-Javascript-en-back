@@ -12,7 +12,7 @@
     {
         "id": "Archer",
         "name": "Emiya",
-        "heroic spirit": "???",
+        "heroic_spirit": "???",
         "serie": "Fate/stay night",
         "noble_phantasm": "Unlimited Blade Works",
         "image": "emiya",
@@ -22,10 +22,71 @@
     {
         "id": "Archer_Second",
         "name": "Gilgamesh",
-        "heroic spirit": "Gilgamesh",
+        "heroic_spirit": "Gilgamesh",
         "serie": "Fate/stay night",
         "noble_phantasm": "Anti-Mundo",
         "image": "Gilgamesh",
         "master": "Kirei Kotomine"
+    },
+
+    {
+        "id": "Caster",
+        "name": "Medea",
+        "heroic_spirit": "Medea, Hechicera de la Era de los Dioses",
+        "serie": "Fate/stay night",
+        "noble_phantasm": "Rule Breaker",
+        "image": "Medea",
+        "master": "Souichirou Kuzuki"
+    },
+
+    {
+        "id": "Rider",
+        "name": "Medusa",
+        "heroic_spirit": "Medusa",
+        "serie": "Fate/stay night",
+        "noble_phantasm": "Bellerophon, Blood Fort Andromeda, Breaker Gorgon",
+        "image": "Medusa",
+        "master": "Shinji / Sakura Matou"
+    },
+
+    {
+        "id": "Assassin_Second",
+        "name": "Sasaki Kojirou",
+        "heroic_spirit": "Samurái sin Nombre, El Salvador de Francia",
+        "serie": "Fate/stay night",
+        "noble_phantasm": "No posee",
+        "image": "Sasaki",
+        "master": "Caster (Medusa)"
+    },
+
+    {
+        "id": "Assassin",
+        "name": "Hassan",
+        "heroic_spirit": "Hassan-i-Sabbah",
+        "serie": "Fate/stay night",
+        "noble_phantasm": "Zabaniya: Latido de Corazón Delirante",
+        "image": "Hassan",
+        "master": "Zouken Matou"
+    },
+
+    {
+        "id": "Lancer",
+        "name": "Cú Chulainn",
+        "heroic_spirit": "Cú Chulainn",
+        "serie": "Fate/stay night",
+        "noble_phantasm": "Gáe Bolg",
+        "image": "Chulainn",
+        "master": "Kirei Kotomine"
+    },
+
+    {
+        "id": "Berserker",
+        "name": "Heracles",
+        "heroic_spirit": "Heracles",
+        "serie": "Fate/stay night",
+        "noble_phantasm": "God Hand, Nine Lives",
+        "image": "Heracles",
+        "master": "Illyasviel von Einzbern"
     }
+
 ]
