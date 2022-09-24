@@ -2,7 +2,7 @@
     {
         "id": "Saber",
         "name": "Artoria Pendragon",
-        "heroic spirit": "Rey Arturo",
+        "heroic_spirit": "Rey Arturo",
         "serie": "Fate/stay night",
         "noble_phantasm": "Excalibur",
         "image": "artoria",
@@ -20,7 +20,7 @@
     },
 
     {
-        "id": "Archer",
+        "id": "Archer_Second",
         "name": "Gilgamesh",
         "heroic spirit": "Gilgamesh",
         "serie": "Fate/stay night",

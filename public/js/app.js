@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {          // Evento para cuando la pagina deje de cargar
+document.addEventListener("DOMContentLoaded", (event) => {          // Evento para cuando la pagina deje de cargar
     
     const servantsContainer = document.querySelector('#servantsContainer');     // Selector para agarrar un id del HTML
 
@@ -15,10 +15,8 @@ document.addEventListener("DOMContentLoaded", () => {          // Evento para cu
             <article class="col-4">
                 <h2>${serv.name}</h2>
                 <img src="./public/assets/${serv.image}.jpg" alt="Imagen no disponible" width="200px">
-                <ul>
-                    <li><p><strong>Class: </strong>${serv.id}</p> </li>
-                    <li><p><strong>Master: </strong> ${serv.master}</p> </li>
-                </ul>
+                <p><strong>Class: </strong>${serv.id}</p> </li>
+                <a class = "btn btn-outline-primary w-50" href="servant_detail.html?id=${serv.id}">Ver detalles</a>
             </article>`
         });
 
